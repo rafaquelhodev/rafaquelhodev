@@ -13,7 +13,7 @@ I'm **Rafael** working as a backend developer working for Softplan. I have exper
 
 ##### BIO
 
-- 🏢 I'm currently working at **Softplan**
+- 🏢 I'm currently working at **Podium**
 - ⚙️ I use daily: `.py`, `.js`, `.cs`, `.yaml`
 - 🌱 Learning all about **Open Source** and **Software Architecture**
 - [ScanApi](https://github.com/scanapi/scanapi) contributor
