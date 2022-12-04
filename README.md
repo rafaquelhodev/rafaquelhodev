@@ -9,7 +9,7 @@
 
 ### Whoami
 
-I'm **Rafael** working as a backend developer working for Softplan. I have experience working with **Python**, **C#**, **Javascript** and I know a bit of **Go** as well. Learning **Elixir**
+I'm **Rafael** working as a backend developer working for Softplan. I have experience working with **Elixir**, **Python**, **C#**, **Javascript** and I know a bit of **Go** as well
 
 ##### BIO
 
