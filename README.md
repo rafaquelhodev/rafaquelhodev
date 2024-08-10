@@ -9,4 +9,4 @@
 
 ### Whoami
 
-I'm **Rafael** working as a backend developer. I have experience working with **Elixir**, **Python**, **C#**, **Javascript** and I know a bit of **Go** as well
+I'm **Rafael** working as a backend developer. I have experience working with **Elixir**, **Python**, **C#**, **Javascript** and **Go**
